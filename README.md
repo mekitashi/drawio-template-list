@@ -9,6 +9,10 @@ Draw.io のテンプレートを挿入するとき、どんな図があるのか
 - テンプレートの XML(mxfile 形式)から PNG への変換には drawio-desktop を利用しています。
 - 見出しは Draw.io の表示名と一致していますが、意味が分かりにくいものは後ろに`# {和訳}`や`# {図の名称}`をつけています。
 
+## Github Pages <!-- omit in toc -->
+
+> https://mekitashi.github.io/drawio-template-list/
+
 ## 目次 <!-- omit in toc -->
 
 - [基本](#基本)
